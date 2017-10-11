@@ -1,5 +1,5 @@
 #idea自带的文件夹
-/.idea/
+.idea
 #编译文件夹
 target/
 #编译文件
